@@ -1,0 +1,6 @@
+*~
+*.bak
+LICENSE
+README.*
+Dockerfile
+.dockerignore
